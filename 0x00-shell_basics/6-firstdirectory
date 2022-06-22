@@ -1,2 +1,2 @@
-#!/bin/bash
-touch
+#!/bib/bash
+mkdir /tmp/my_first_directory
