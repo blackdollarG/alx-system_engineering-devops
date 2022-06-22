@@ -1,2 +1,2 @@
 #!/bin/bash
-software engineer alx
+Task 0. 'Where am i?'
