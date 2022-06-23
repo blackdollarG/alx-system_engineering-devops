@@ -1,2 +1,2 @@
-#!/bib/bash
-My name is Betty
+#!/bin/bash
+'script that prints the effective username of the current user'
