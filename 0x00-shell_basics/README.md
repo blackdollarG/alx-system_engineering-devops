@@ -1,2 +1,2 @@
 #!/bin/bash
-'script that changes the working directory to the previous one'
+'Create a symbolic link to /bin/ls, named __ls__'
