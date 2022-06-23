@@ -1,2 +1,2 @@
 #!/bin/bash
-'sudo adduser'
+id -u -n
