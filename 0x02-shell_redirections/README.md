@@ -1,2 +1,2 @@
 #!/bin/bash
- script that removes all letters c and C from input.
+script that reverse its input.
